@@ -3,8 +3,6 @@ I'm Bui Quang Bao, developer from  Vietnam, currently living in  Ho Chi Minh Cit
 
 #### Tech Stack
 
-Python, C++, C, HTML, Javascript, CSS, Flutter, Dart, Firebase, Tensorflow, JupyterNotebook, Teachable Machine, Android Studio, Qwicklab, github, stackoverflow, codepen
-
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JupyterNotebook](https://img.shields.io/badge/-Jupyter_Notebook-black?style=flat-square&logo=Jupyter)
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
