@@ -1,10 +1,5 @@
-###  Hey, nice to see you.
+## 👋 Hey, nice to see you!
 I'm Bui Quang Bao, developer from  Vietnam, currently living in  Ho Chi Minh City.
-
-![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
-![StackOverflow](https://img.shields.io/badge/-StackOverflow-black?style=flat-square&logo=StackOverflow)
-![Codepen](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen)
 
 ## Tech Stacks
 |   | Stack | Languages and Tools |
