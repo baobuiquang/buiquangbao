@@ -5,6 +5,8 @@ I'm Bui Quang Bao, developer from  Vietnam, currently living in  Ho Chi Minh Cit
 [![Blogs](https://img.shields.io/badge/-Personal_Blogs-black?style=flat-square&logo=Tumblr)](https://buiquangbao.tumblr.com/)
 [![Mail](https://img.shields.io/badge/-Mail-black?style=flat-square&logo=Gmail&logoColor=white)](mailto:quangbao.dev@gmail.com)
 [![Codepen](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen)](https://codepen.io/buiquangbao)
+[![Behance](https://img.shields.io/badge/-Behance-black?style=flat-square&logo=Behance)](https://www.behance.net/buiquangbao)
+[![Dribbble](https://img.shields.io/badge/-Dribbble-black?style=flat-square&logo=Dribbble&logoColor=white)](https://dribbble.com/buiquangbao)
 
 ## Tech Stacks
 |   | Stack | Languages and Tools |
