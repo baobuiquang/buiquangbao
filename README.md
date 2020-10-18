@@ -15,7 +15,7 @@ I'm Bui Quang Bao, developer from  Vietnam, currently living in  Ho Chi Minh Cit
 |   | **Foundation** | ![C/C++](https://img.shields.io/badge/-C/C++-black?style=flat-square&logo=c%2B%2B&logoColor=blue) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-black?style=flat-square&logo=visual-studio&logoColor=purple) |
 |   | **Machine Learning** | ![Tensorflow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=Tensorflow) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=blue) |
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=buiquangbao)
 
 <!-- 
     Visitors
