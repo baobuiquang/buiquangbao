@@ -2,7 +2,7 @@
 I'm Bui Quang Bao, developer from  Vietnam, currently living in  Ho Chi Minh City.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/buiquangbao/)
-[![Blogs](https://img.shields.io/badge/-Personal_Blogs-black?style=flat-square&logo=Tumblr)](https://buiquangbao.tumblr.com/)
+[![Blogs](https://img.shields.io/badge/-Personal_Blogs-black?style=flat-square&logo=Tumblr)](https://icst-lab.tumblr.com/)
 [![Mail](https://img.shields.io/badge/-Mail-black?style=flat-square&logo=Gmail&logoColor=white)](mailto:quangbao.dev@gmail.com)
 [![Codepen](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen)](https://codepen.io/buiquangbao)
 [![Behance](https://img.shields.io/badge/-Behance-black?style=flat-square&logo=Behance)](https://www.behance.net/buiquangbao)
