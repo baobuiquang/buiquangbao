@@ -21,7 +21,6 @@ I'm Bui Quang Bao, developer from  Vietnam, currently living in  Ho Chi Minh Cit
 [![Dribbble](https://img.shields.io/badge/-Dribbble-black?style=flat-square&logo=Dribbble&logoColor=white)](https://dribbble.com/buiquangbao)
 [![Blogs](https://img.shields.io/badge/-Personal_Blogs-black?style=flat-square&logo=Tumblr)](https://icst-lab.tumblr.com/) -->
 
-_______
 ![](https://komarev.com/ghpvc/?username=buiquangbao&style=flat-square&label=Profile+Views&color=030303)
 
 <!-- 
