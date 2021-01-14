@@ -1,7 +1,7 @@
 ## 👋 Hey, nice to see you!
 I'm Bui Quang Bao, developer from  Vietnam, currently living in  Ho Chi Minh City.
 
-### Highlights
+## Highlights
 
 <details>
   <summary>AI Hackathon "RESET 1010" Winner - 3RD Prize</summary>
@@ -9,7 +9,6 @@ I'm Bui Quang Bao, developer from  Vietnam, currently living in  Ho Chi Minh Cit
   ![](RESET1010.jpg)
 
   *AI Hackathon "RESET 1010" 3RD Prize*
-
 
   ![](RESET1010WinningCertificate.png)
 
@@ -28,7 +27,7 @@ I'm Bui Quang Bao, developer from  Vietnam, currently living in  Ho Chi Minh Cit
 
 #### More? See my life's adventure at [**Portfolio**](https://buiquangbao.github.io/) 👈
 
-### My ~~Tech Stacks~~ Weapons
+## Tech Stacks
 <details>
   <summary>Click to expand</summary>
   
@@ -42,12 +41,12 @@ I'm Bui Quang Bao, developer from  Vietnam, currently living in  Ho Chi Minh Cit
 |   | **Foundation** | ![C/C++](https://img.shields.io/badge/-C/C++-black?style=flat-square&logo=c%2B%2B&logoColor=blue) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-black?style=flat-square&logo=visual-studio&logoColor=purple) |
 </details>
 
-### Contact
+## Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/buiquangbao/)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/quangbao_dev)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/quangbao_dev/)
 [![Mail](https://img.shields.io/badge/-Personal_Mail-black?style=flat-square&logo=Gmail&logoColor=white)](mailto:quangbao.dev@gmail.com)
-[![Mail](https://img.shields.io/badge/-Microsoft_Ambassador_Mail-black?style=flat-square&logo=Gmail&logoColor=white)](mailto:bao.buiquang@studentambassadors.com)
+[![Mail](https://img.shields.io/badge/-Ambassador_Mail-black?style=flat-square&logo=Gmail&logoColor=white)](mailto:bao.buiquang@studentambassadors.com)
 <!-- [![Codepen](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen)](https://codepen.io/buiquangbao)
 [![Behance](https://img.shields.io/badge/-Behance-black?style=flat-square&logo=Behance)](https://www.behance.net/buiquangbao)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-black?style=flat-square&logo=Dribbble&logoColor=white)](https://dribbble.com/buiquangbao)
