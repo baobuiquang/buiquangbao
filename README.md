@@ -4,7 +4,7 @@ I'm Bui Quang Bao, developer from  Vietnam, currently living in  Ho Chi Minh Cit
 ### Highlights
 
 <details>
-  <summary>AI Hackathon "RESET 1010" 3RD Prize</summary>
+  <summary>AI Hackathon "RESET 1010" Winner - 3RD Prize</summary>
   
   ![](RESET1010.jpg)
 
