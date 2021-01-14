@@ -1,11 +1,32 @@
 ## 👋 Hey, nice to see you!
 I'm Bui Quang Bao, developer from  Vietnam, currently living in  Ho Chi Minh City.
 
-### See my life's adventure at [**Portfolio**](https://buiquangbao.github.io/)
+### Highlights
 
-<img src="./RESET1010.jpg" style="border-radius: 8px;">
+<details>
+  <summary>AI Hackathon "RESET 1010" 3RD Prize</summary>
+  
+  ![](RESET1010.jpg)
 
-*AI Hackathon "RESET 1010" 3RD Prize*
+  *AI Hackathon "RESET 1010" 3RD Prize*
+
+
+  ![](RESET1010WinningCertificate.png)
+
+  *Certificate of Achievement*
+
+</details>
+
+<details>
+  <summary>Microsoft Student Ambassador</summary>
+  
+  ![](MLSA-NewStudent.png)
+
+  *Certificate of Achievement*
+
+</details>
+
+#### More? See my life's adventure at [**Portfolio**](https://buiquangbao.github.io/) 👈
 
 ### My ~~Tech Stacks~~ Weapons
 <details>
@@ -20,9 +41,6 @@ I'm Bui Quang Bao, developer from  Vietnam, currently living in  Ho Chi Minh Cit
 |   | **Data Analysis/Automation** | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![JupyterNotebook](https://img.shields.io/badge/-Jupyter_Notebook-black?style=flat-square&logo=Jupyter) ![Qwiklabs](https://img.shields.io/badge/-Qwiklabs-black?style=flat-square&logo=Qwiklabs) |
 |   | **Foundation** | ![C/C++](https://img.shields.io/badge/-C/C++-black?style=flat-square&logo=c%2B%2B&logoColor=blue) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-black?style=flat-square&logo=visual-studio&logoColor=purple) |
 </details>
-
-
-
 
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/buiquangbao/)
